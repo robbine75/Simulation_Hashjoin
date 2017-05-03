@@ -2,7 +2,7 @@ CSCI 8340 DBMS II
 Term Project Final Report 
 Simulation of implementing a join algorithm in a distributed database environment
 Huaqing Li
-hli02@unomaha.edu
+lhqphd@gmail.com
 
 1.	Design
 
